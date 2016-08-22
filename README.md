@@ -1,5 +1,5 @@
 # NMT
-Attention-based NMT with Coverage and Context Gate
+**Attention-based NMT with Coverage and Context Gate**
 
 
 We are still in the process of releasing our neural machine translation (NMT) code, which alleviates the problem of fluent but inadequate translations that NMT suffers.
