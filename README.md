@@ -1,12 +1,14 @@
 # NMT
 Attention-based NMT with Coverage and Context Gate
 
-===========================
 
 We are still in the process of releasing our neural machine translation (NMT) code, which alleviates the problem of fluent but inadequate translations that NMT suffers.
 In this version, we introduce:
+
 — **Coverage** to indicate whether a source word is translated or not, which proves to alleviate over-translation and under-translation.
+
 — **Context Gate** to dynamically control the ratios at which source and target contexts contribute to the generation of target words, which enhances the adequacy of NMT while keeping the fluency unchanged.
+
 Using coverage mechanism significantly improves upon a standard attention-based NMT system by +1.8 BLEU, and incorporating context gate obtains a further improvement of +1.6 BLEU (i.e., **+3.4 BLEU** in total).
 
 If you use the code, please cite our papers:
