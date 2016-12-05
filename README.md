@@ -20,10 +20,10 @@ If you use the code, please cite our papers:
       booktitle = {Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics},
       year      = {2016},
 }
-@InProceedings{Tu:2016:arXiv,
+@Article{Tu:2016:TACL,
       author    = {Tu, Zhaopeng and Liu, Yang and Lu, Zhengdong and Liu, Xiaohua and Li, Hang},
       title     = {Context Gates for Neural Machine Translation},
-      booktitle = {arXiv},
+      booktitle = {Transactions of the Association for Computational Linguistics},
       year      = {2016},
 }
 </code>
