@@ -20,11 +20,11 @@ If you use the code, please cite our papers:
       booktitle = {Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics},
       year      = {2016},
 }
-@Article{Tu:2016:TACL,
+@Article{Tu:2017:TACL,
       author    = {Tu, Zhaopeng and Liu, Yang and Lu, Zhengdong and Liu, Xiaohua and Li, Hang},
       title     = {Context Gates for Neural Machine Translation},
       booktitle = {Transactions of the Association for Computational Linguistics},
-      year      = {2016},
+      year      = {2017},
 }
 </code>
 </pre>
