@@ -41,7 +41,7 @@ def get_config_search_coverage():
     config['with_reconstruction'] = False
     config['reconstruction_weight'] = 1.
 
-    # added by Zhaopeng Tu, 20170-04-18
+    # added by Zhaopeng Tu, 2017-04-18
     config['with_cache'] = False
     config['train_cache_parameters_only'] = False
     # added by Zhaopeng Tu, 2017-05-11
