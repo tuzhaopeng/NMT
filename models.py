@@ -493,7 +493,7 @@ class Decoder(object):
         return maxout
 
 
-    def run_pipeline(self, state_below, mask_below, init_context=None, c=None, c_mask=None)
+    def run_pipeline(self, state_below, mask_below, init_context=None, c=None, c_mask=None):
 
         init_state = self.create_init_state(init_context)
 
